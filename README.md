@@ -9,12 +9,12 @@ S3Client - A Javascript Library for AWS S3 File Upload
 Using NPM
 
 ```
-npm install --save react-aws-s3
+npm install --save react-aws-s3-g3
 ```
 Using Yarn 
 
 ```
-yarn add react-aws-s3
+yarn add react-aws-s3-g3
 ```
 
 
